@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.dabfc827.css",
+    "main.js": "/Portfolio/static/js/main.52403c08.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/writing-2057986_1920.jpg": "/Portfolio/static/media/writing-2057986_1920.7ec92cee61bb4f6440bd.jpg",
+    "static/media/office.jpg": "/Portfolio/static/media/office.a1f3abbe5361a3ac21a9.jpg",
+    "static/media/pg.jpg": "/Portfolio/static/media/pg.ad2eaae03f10ad76ae71.jpg",
+    "static/media/movie.jpg": "/Portfolio/static/media/movie.7c80d259b42ba117336e.jpg",
+    "static/media/tt.jpg": "/Portfolio/static/media/tt.82996114ac0a6fae1e52.jpg",
+    "static/media/insta.jpg": "/Portfolio/static/media/insta.d196576f2fd2db92d8dc.jpg",
+    "static/media/calc.jpg": "/Portfolio/static/media/calc.263102ca1434e3a34f0c.jpg",
+    "static/media/crystal-ball.jpg": "/Portfolio/static/media/crystal-ball.3b7ff6b6c919e31ce48c.jpg",
+    "static/media/quiz.jpg": "/Portfolio/static/media/quiz.c6a71b0286e9c00f37b0.jpg",
+    "static/media/WhatsApp Image 2022-11-09 at 7.30.19 PM.jpeg": "/Portfolio/static/media/WhatsApp Image 2022-11-09 at 7.30.19 PM.2a9530f4f85dd090213f.jpeg",
+    "static/media/rock.jpg": "/Portfolio/static/media/rock.68e6ec77daf9d4b4067d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.dabfc827.css.map": "/Portfolio/static/css/main.dabfc827.css.map",
+    "main.52403c08.js.map": "/Portfolio/static/js/main.52403c08.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabfc827.css",
+    "static/js/main.52403c08.js"
+  ]
+}
